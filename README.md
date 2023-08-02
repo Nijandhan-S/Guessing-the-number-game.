@@ -23,6 +23,10 @@ Then we will decide the difficulty level and also decides the total number of at
 
 Then everything followed by the code
 
+![IMG_20230802_133007](https://github.com/Nijandhan-S/Guessing-the-number-game./assets/141180571/4c3b861d-5ded-4167-be49-c398d716ad51)
+![IMG_20230802_133020](https://github.com/Nijandhan-S/Guessing-the-number-game./assets/141180571/1618e67a-28f8-4714-8a9b-eb70bb39fc8f)
+
+
 # And here's the output
 
 ![Screenshot_2023-08-02-13-22-19-909_com android chrome](https://github.com/Nijandhan-S/Guessing-the-number-game./assets/141180571/9aae0dd0-bbf2-49e8-a39e-d3441c5200ce)
